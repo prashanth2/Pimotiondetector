@@ -37,3 +37,5 @@ Limitations
 3. Does not implement any kind of thread pooling so can potentially end up creating several threads 
 
 4. Lest I forget, not suitable for real time production use :)
+
+5. Doesn't implement any clean up of the accumulated images/videos at the time of initial commit
