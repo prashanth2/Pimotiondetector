@@ -25,7 +25,7 @@ What's unique
 
 1. Does not save any files locally on the pi and instead writes to a network drive
 
-2. Due to latencies involved with writing remotely, it does all of the i/o on a backgroud theread
+2. Due to latencies involved with writing remotely, it does all of the i/o on backgroud threads
 
 Limitations
 ===========
